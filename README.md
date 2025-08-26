@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/15TjnywE5bz_qjBo25e_SRS6rAHAmaPjN/view?usp=drive_link"  />
+  <img height="150" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"  />
 </div>
 
 ###
@@ -32,7 +32,14 @@
 
 ###
 
-<p align="left">I'm from Bangladesh<br><br>🔭 I’m a final-year CSE student at BRAC University, passionate about web development and AI<br>📚 I'm currently learning Next.js, Machine Learning, and advanced web technologies<br>⚡ In my free time, I like to play video games and have recently picked up crocheting. Check out my crochet diary: https://maishark-crochets.vercel.app/<br>📫 You can reach me at maishazm16@gmail.com</p>
+<p align="left">
+  I'm from Bangladesh<br><br>
+  🔭 I’m a final-year CSE student at BRAC University, passionate about web development and AI<br>
+  📚 I'm currently learning Next.js, Machine Learning, and advanced web technologies<br>
+  ⚡ In my free time, I like to play video games and have recently picked up crocheting. Check out my crochet diary: <a href="https://maishark-crochets.vercel.app/" target="_blank">Maishark Crochets</a><br>
+  📫 You can reach me at <a href="mailto:maishazm16@gmail.com">maishazm16@gmail.com</a>
+</p>
+
 
 ###
 
